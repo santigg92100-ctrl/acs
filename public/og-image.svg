@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="ACS Advanced Customer Services">
+  <rect width="1200" height="630" fill="#FFFFFF"/>
+  <circle cx="760" cy="270" r="145" fill="#E94E1B" opacity=".14"/>
+  <circle cx="890" cy="330" r="118" fill="#E94E1B" opacity=".16"/>
+  <circle cx="715" cy="410" r="110" fill="#E94E1B" opacity=".12"/>
+  <path d="M650 318 C700 235 780 220 850 276 S990 360 903 430 S690 476 650 318Z" fill="#E94E1B" opacity=".13"/>
+  <line x1="650" y1="318" x2="760" y2="270" stroke="#E94E1B" stroke-width="3" opacity=".45"/>
+  <line x1="760" y1="270" x2="890" y2="330" stroke="#E94E1B" stroke-width="3" opacity=".45"/>
+  <line x1="650" y1="318" x2="715" y2="410" stroke="#E94E1B" stroke-width="3" opacity=".45"/>
+  <circle cx="650" cy="318" r="18" fill="#E94E1B"/>
+  <circle cx="760" cy="270" r="14" fill="#E94E1B"/>
+  <circle cx="890" cy="330" r="20" fill="#E94E1B"/>
+  <circle cx="715" cy="410" r="16" fill="#E94E1B"/>
+  <rect x="110" y="118" width="7" height="82" fill="#E94E1B"/>
+  <text x="140" y="154" fill="#100F11" font-family="Open Sans, Arial, sans-serif" font-weight="800" font-size="34">ACS</text>
+  <text x="140" y="194" fill="#100F11" font-family="Open Sans, Arial, sans-serif" font-weight="800" font-size="24">ADVANCED CUSTOMER SERVICES</text>
+  <text x="110" y="315" fill="#100F11" font-family="Open Sans, Arial, sans-serif" font-weight="800" font-size="64">Servicio, tecnología</text>
+  <text x="110" y="390" fill="#100F11" font-family="Open Sans, Arial, sans-serif" font-weight="800" font-size="64">y conexión con el cliente</text>
+  <text x="110" y="480" fill="#706F6F" font-family="Open Sans, Arial, sans-serif" font-weight="400" font-size="28">Una visión integrada de negocio, comunicación y fidelización.</text>
+</svg>
