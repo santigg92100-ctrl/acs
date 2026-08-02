@@ -70,7 +70,7 @@ export const identityElements = [
 
 export const difference = {
   kicker: "Diferencia ACS",
-  title: "Por qué elegir ACS y no otra opción",
+  title: "Conoce una visión\ndiferente del servicio",
   intro:
     "Cuando el producto de AT&T es el mismo, la decisión del cliente depende de quién administra mejor su cuenta, responde más rápido y le quita carga operativa. Ahí es donde ACS busca diferenciarse.",
   traditionalTitle: "Atención y seguimiento",
@@ -192,7 +192,7 @@ export const manifesto = {
 };
 
 export const cta = {
-  title: "Conoce una visión diferente del servicio",
+  title: "CONECTAMOS TODO\nLO QUE IMPORTA",
   text:
     "Descubre cómo ACS conecta empresa, comunicación, tecnología y relación con el cliente.",
   primaryCta: "Conocer nuestra identidad",

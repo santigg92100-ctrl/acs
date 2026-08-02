@@ -228,7 +228,7 @@ function Difference() {
       <div className="container">
         <div className="section-heading reveal">
           <p className="section-kicker">{difference.kicker}</p>
-          <h2>{difference.title}</h2>
+          <h2 className="line-break-title">{difference.title}</h2>
           <p>{difference.intro}</p>
         </div>
         <div className="comparison-grid">
@@ -352,7 +352,7 @@ function Cta() {
         ACS
       </div>
       <div className="container cta-inner reveal">
-        <h2>{cta.title}</h2>
+        <h2 className="line-break-title">{cta.title}</h2>
         <p>{cta.text}</p>
         <div className="button-row cta-buttons">
           <a className="button button--white" href="#identidad">

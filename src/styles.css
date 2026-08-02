@@ -1195,3 +1195,7 @@ p {
     transform: none;
   }
 }
+
+.line-break-title {
+  white-space: pre-line;
+}
